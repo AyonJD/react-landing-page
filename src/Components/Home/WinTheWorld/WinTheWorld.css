@@ -1,0 +1,20 @@
+.speak-to-win{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 75px;
+    letter-spacing: 0.05em;
+    color: #303031;
+}
+.custom-color{
+    color: #EC6437;
+}
+.speak-to-win-text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: #666666;
+}
