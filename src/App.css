@@ -1,0 +1,8 @@
+/* Sofia pro */
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url(../public/fonts/sofia\ pro/sofiapro-light.otf) format("truetype");
+  }
+
+/* Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');

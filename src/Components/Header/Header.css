@@ -1,0 +1,41 @@
+.logo h1{
+    font-family: 'Sofia Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 40px;
+    background: linear-gradient(90deg, #FE935E 0%, #F44845 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.menu-item{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+}
+.menu-item a{
+    margin: 0 10px;
+    padding: 10px;
+    transition: .2s ease-in-out;
+}
+.menu-item a:hover,
+.single-icon:hover
+{
+    color: #F44845;
+}
+.menu-item-color{
+    color: #303031;
+}
+.menu-item-active-color{
+    color: #F44845;
+}
+.pinterest{
+    margin-right: 0;
+}
+.single-icon{
+    color: #8E8F9D;
+    transition: .2s ease-in-out;
+}
