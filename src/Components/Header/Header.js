@@ -8,7 +8,7 @@ import { FaLinkedinIn, FaPinterestP } from 'react-icons/fa'
 const Header = () => {
     const navigate = useNavigate()
     return (
-        <div className="bg-white h-[80px] flex items-center">
+        <div className="bg-white h-[80px] flex items-center sticky top-0 z-50">
             <nav className='flex justify-between items-center md:container mx-auto '>
             <div className="logo">
                 <Link to={'/'}><h1>Speak.</h1></Link>
