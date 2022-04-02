@@ -1,4 +1,9 @@
-.speak-to-win{
+.win-the-world {
+    background: #F5F5F5;
+    padding-top: 65px;
+}
+
+.speak-to-win {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -6,15 +11,64 @@
     line-height: 75px;
     letter-spacing: 0.05em;
     color: #303031;
+    margin-bottom: 32px;
 }
-.custom-color{
+
+.custom-color {
     color: #EC6437;
 }
-.speak-to-win-text{
+
+.speak-to-win-text {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 40px;
     color: #666666;
+    margin-bottom: 79px;
+}
+
+.button-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #303031;
+    margin-right: 27px;
+}
+
+.button-icon {
+    background: linear-gradient(360deg, #FE935E 0%, #F44845 100%);
+}
+
+.counter {
+    background: linear-gradient(90deg, #FE935E 0%, #F44845 100%);
+    height: 200px !important;
+    /* margin-top: 140px; */
+}
+
+.counter-text_one h1,
+.counter-text_two h1,
+.counter-text_three h1,
+.counter-text_four h1
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 54px;
+    color: #fff;
+}
+
+.counter-text_one p,
+.counter-text_two p,
+.counter-text_three p,
+.counter-text_four p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #fff;
 }
